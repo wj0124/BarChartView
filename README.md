@@ -24,3 +24,4 @@ Horizontal Bar Chart Demo
 	•	HorizontalScrollableBarChartView.swift 滚动容器封装
 	•	ViewController.swift 演示界面，带参数调节功能
 
+![ezgif-2f9da6a62aa86c](https://github.com/user-attachments/assets/00ebebc2-7629-42d8-96c5-6d2163dd41db)
